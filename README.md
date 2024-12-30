@@ -1,4 +1,4 @@
-# User Carbon Emissions Prediction Using LSTM
+# User's Weekly Carbon Emissions Prediction Using LSTM
 This project implements a Long Short-Term Memory (LSTM) neural network to predict weekly carbon emissions based on historical data. The model is designed to help users forecast their emissions and make informed decisions to reduce their environmental impact.
 
 # What is LSTM?
